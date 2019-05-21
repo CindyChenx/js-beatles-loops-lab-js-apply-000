@@ -32,10 +32,14 @@ while (i < facts.length){
 var n = 6;
 function iLoveTheBeatles(n){
   var x = [ ];
+  var i = 0;
   do{
-    x[n] = "I love the Beatles!";
+    x[i] = "I love the Beatles!";
+    i++;
     n++;
   }while(n<15);
+  
+  return x;
 }
 
 
