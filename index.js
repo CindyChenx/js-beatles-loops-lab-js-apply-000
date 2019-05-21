@@ -29,7 +29,7 @@ while (i < facts.length){
   return x;
 }
 
-var n = 0;
+var n = 6;
 function iLoveTheBeatles(n){
   var x = [ ];
   do{
