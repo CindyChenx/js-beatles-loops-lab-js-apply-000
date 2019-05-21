@@ -24,6 +24,7 @@ var x = [ ];
 var i = 0;
 while (i < facts.length){
     x[i] = facts[i] + "!!!";
+    i++;
 }
   return x;
 }
