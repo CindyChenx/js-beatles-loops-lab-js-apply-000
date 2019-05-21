@@ -12,30 +12,30 @@ function theBeatlesPlay(musicians, instruments){
   return x
 }
 
-var facts = [
-  "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice"
-];
+// var facts = [
+//   "He was the last Beatle to learn to drive",
+//   "He was never a vegetarian",
+//   "He was a choir boy and boy scout",
+//   "He hated the sound of his own voice"
+// ];
 
-function johnLennonFacts(facts){
- var x = [ ];
- var i = 0;
- while (i < facts.length){
-     x[i] = facts[i] + "!!!";
- }
-  return x;
-}
+// function johnLennonFacts(facts){
+// var x = [ ];
+// var i = 0;
+// while (i < facts.length){
+//     x[i] = facts[i] + "!!!";
+// }
+//   return x;
+// }
 
-var n = 0;
-function iLoveTheBeatles(n){
-  var x = [ ];
-  do{
-    x[n] = "I love the Beatles!";
-    n++;
-  }while(n<15);
-}
+// var n = 0;
+// function iLoveTheBeatles(n){
+//   var x = [ ];
+//   do{
+//     x[n] = "I love the Beatles!";
+//     n++;
+//   }while(n<15);
+// }
 
 
 
